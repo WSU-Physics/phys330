@@ -1,0 +1,7 @@
+name: phys330
+deperdencies:
+  - python>=3.7
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipykernel
